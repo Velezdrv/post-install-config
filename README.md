@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Post Installation Configurations</h1>
+<h1 align="center">osTicket - Post Installation Configurations</h1>
 
 <h2>Environments and Technologies Used</h2>
 
