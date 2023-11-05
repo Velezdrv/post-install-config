@@ -14,3 +14,8 @@
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+
+
+
+
+<h3 align = "right">Next Tutorial - <a href = "https://github.com/Velezdrv/post-install-config/tree/main">osTicket: Post Installation Configurations</a></h3>
