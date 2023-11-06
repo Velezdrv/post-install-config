@@ -29,6 +29,10 @@
 
 ![image](https://github.com/Velezdrv/post-install-config/assets/147437260/571511ab-a312-45a7-82a5-121b78ab8647)
 
+- For this demonstration I created a role titled "Unlimited Power" check marking every box under the Tickets, Task, and Knowledge tabs. This gives this role all permissions and essentially total control, hence "Unlimited Power"
+
+![image](https://github.com/Velezdrv/post-install-config/assets/147437260/3c73490a-126e-41df-9c10-2c4d3bf95036)
+
 
 
 
