@@ -18,6 +18,16 @@
 
 <h2>Configuration & Setup</h2>
 
+- Before we begin, there are two panels to determine what type of user you are.
+- Agent and Admin Panel. The Version you are on will show the opposing version on the top right
+- In this Example here, I am logged in as an admin because it states agent panel for me to click on and go to.
+
+![image](https://github.com/Velezdrv/post-install-config/assets/147437260/928767fd-06a5-4a00-872b-38f24d8ef6b6)
+
+- Roles are the permissions granted to Agents per Department that they have access to. Each Role has a set of permissions that can be checked/unchecked for agents given that Role in association with a Department they have access to. An unlimited number of roles can be created and assigned to Agents with access to various departments.
+
+
+
 
 
 
