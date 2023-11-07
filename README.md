@@ -39,6 +39,11 @@
 
 ![image](https://github.com/Velezdrv/post-install-config/assets/147437260/a63af397-9ad2-4c1f-bcd5-d99c3c17614a)
 
+- Next Create a Team and Configure it to allow anyone to create a Ticket
+- In The Agents tab, Click Teams and click + Add New Team
+- Create a New Team and name it (example Tier II Support) Click Create Team
+
+![image](https://github.com/Velezdrv/post-install-config/assets/147437260/e9c87aea-81c4-4dad-8a1e-d5484594591e)
 
 
 
