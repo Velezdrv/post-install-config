@@ -51,7 +51,11 @@
   
 ![image](https://github.com/Velezdrv/post-install-config/assets/147437260/82fc4f7f-89b1-429d-9f8f-569f2a203b01)
 
-- Next Create two new Agents (Example Brad Pitt, Matt Damon) Make sure to uncheck the box requiring the agent to reset the password via email and to change the password at next login.
+- Next Create two new Agents (Example Brad Pitt, Matt Damon) 
+
+![image](https://github.com/Velezdrv/post-install-config/assets/147437260/fedbfea1-99e8-46c8-997a-3c7814c036ba)
+
+- Make sure to uncheck the box requiring the agent to reset the password via email and to change the password at next login.
 
 ![image](https://github.com/Velezdrv/post-install-config/assets/147437260/1e5396da-1010-4c1a-b440-a03c750bd459)
 
