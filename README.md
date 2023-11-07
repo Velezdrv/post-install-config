@@ -77,6 +77,15 @@
 
 ![image](https://github.com/Velezdrv/post-install-config/assets/147437260/f97dd80f-2b0d-405d-a9ca-dff32349898b)
 
+<h2>Adding SLA Plans</h2>
+
+- Service Level Agreements (SLA Plans) provide a length of time in which the help desk Administrator expects tickets to be closed. SLA Plans can be set by help topic and department to ensure the ticket is CLOSED in the allotted or specified amount of time.
+
+- To Configure SLA Plans go back to the Admin Panel, Click Manage then Click SLA and + Add New SLA Plan
+
+![image](https://github.com/Velezdrv/post-install-config/assets/147437260/c5556f55-75c6-4107-a505-4d07ba7761e4)
+
+
 
 
 
