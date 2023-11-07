@@ -68,6 +68,10 @@
 
 ![image](https://github.com/Velezdrv/post-install-config/assets/147437260/abfb4613-33a5-41b0-a108-07d18f82764e)
 
+- Creating Users, In osTicket click on the Agent Panel to switch over from the Admin Panel
+  * While in the Agent Panel, click on the Users tab and click + Add User
+
+![image](https://github.com/Velezdrv/post-install-config/assets/147437260/9d638067-580d-476c-a076-02d426a06e54)
 
 
 
