@@ -82,6 +82,10 @@
 - Service Level Agreements (SLA Plans) provide a length of time in which the help desk Administrator expects tickets to be closed. SLA Plans can be set by help topic and department to ensure the ticket is CLOSED in the allotted or specified amount of time.
 
 - To Configure SLA Plans go back to the Admin Panel, Click Manage then Click SLA and + Add New SLA Plan
+  * Sev-A (1 hour grace period, 24/7, Urgent Tickets) 
+   * Sev-B (4 hour grace period, 24/7, typical trouble shooting Tickets for employees)
+    * Sev-C (8 hour grace period, business hours, Ticket request for new equipment)
+ 
 
 ![image](https://github.com/Velezdrv/post-install-config/assets/147437260/c5556f55-75c6-4107-a505-4d07ba7761e4)
 
