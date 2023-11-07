@@ -93,4 +93,4 @@
 
 
 
-<h3 align = "right">Next Tutorial - <a href = "https://github.com/Velezdrv/ticket-lifecycle">osTicket: Post Installation Configurations</a></h3>
+<h3 align = "right">Next Tutorial - <a href = "https://github.com/Velezdrv/ticket-lifecycle">osTicket-lifecycle</a></h3>
