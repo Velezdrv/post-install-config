@@ -94,17 +94,18 @@
 - Help Topics will help streamline your end-user’s help desk experience to ensure proper assignment and prompt response to the ticket. 
 - Help Topics will determine what Department the ticket is routed to which will determine which Agents have access to the ticket. The Help Topic also can determine other configurations of the ticket, such as the ticket’s SLA (or Service Level Agreement) and priority of a ticket, i.e. Emergency to Low.
 - There are two places where the Help Topic must be selected on New Tickets; the client portal and new tickets created internally by staff. 
-  * Admin Panel > Manage > Help Topics > Add New Help Topic or click on existing topic to edit the following:
+  * Admin Panel, then Manage, then Help Topics, and click + Add New Help Topic or click on existing topic to edit the following:
 
  ![image](https://github.com/Velezdrv/post-install-config/assets/147437260/43cc8acd-9270-4e2d-9c56-12b635ab03a0)
 
 
-- In the Example, I created 4 help topics
+- In the Example, I created 4 Help Topics
   * Business Critical Outage
   * Personal Computer Issues
   * Equipment Request
   * Password Reset
 
+![image](https://github.com/Velezdrv/post-install-config/assets/147437260/6bf0ace7-7320-478d-bf92-faa93bdabda0)
 
 
 
