@@ -64,6 +64,11 @@
     to them
 ![image](https://github.com/Velezdrv/post-install-config/assets/147437260/3f5172dc-7e00-466f-ae5b-67cbcf9daade)
 
+- Now add the Agent to a team, This can be used for pulling agents from multiple departments into an A team. For This we chose the Tier II support we created earlier.
+
+![image](https://github.com/Velezdrv/post-install-config/assets/147437260/abfb4613-33a5-41b0-a108-07d18f82764e)
+
+
 
 
 
