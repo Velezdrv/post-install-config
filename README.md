@@ -41,12 +41,19 @@
 
 - Next Create a Team and Configure it to allow anyone to create a Ticket
 - In The Agents tab, Click Teams and click + Add New Team
-- Create a New Team and name it (example Tier II Support) Click Create Team
+- Create a New Team and name it (Example Tier II Support) Click Create Team
 
 ![image](https://github.com/Velezdrv/post-install-config/assets/147437260/e9c87aea-81c4-4dad-8a1e-d5484594591e)
 
 <h2>Creating New Agents/Users</h2>
 
+- While Still in the Admin Panel, Click Agents on the top line followed by + Add New Agent
+  
+![image](https://github.com/Velezdrv/post-install-config/assets/147437260/82fc4f7f-89b1-429d-9f8f-569f2a203b01)
+
+- Next Create two new Agents (Example Brad Pitt, Matt Damon) Make sure to uncheck the box requiring the agent to reset the password via email and to change the password at next login.
+
+![image](https://github.com/Velezdrv/post-install-config/assets/147437260/1e5396da-1010-4c1a-b440-a03c750bd459)
 
 
 
