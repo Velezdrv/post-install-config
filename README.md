@@ -33,6 +33,14 @@
 
 ![image](https://github.com/Velezdrv/post-install-config/assets/147437260/3c73490a-126e-41df-9c10-2c4d3bf95036)
 
+- Departments are used to route Tickets
+- While still on the previous page (Agents tab) Click departments and click + Add New Department
+- Name the new deparment System Administrators and click Create Dept
+
+![image](https://github.com/Velezdrv/post-install-config/assets/147437260/a63af397-9ad2-4c1f-bcd5-d99c3c17614a)
+
+
+
 
 
 
