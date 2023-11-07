@@ -73,6 +73,9 @@
 
 ![image](https://github.com/Velezdrv/post-install-config/assets/147437260/9d638067-580d-476c-a076-02d426a06e54)
 
+- For Users Fill in the required forms, Email and Full Name then Add User
+
+![image](https://github.com/Velezdrv/post-install-config/assets/147437260/f97dd80f-2b0d-405d-a9ca-dff32349898b)
 
 
 
