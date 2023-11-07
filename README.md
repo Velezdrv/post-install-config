@@ -59,6 +59,10 @@
 
 ![image](https://github.com/Velezdrv/post-install-config/assets/147437260/1e5396da-1010-4c1a-b440-a03c750bd459)
 
+- In the Access Tab, set the Primary Department for the Agent and their role (The ones we created earlier System Administrators/unlimited Power)
+  * Side note, if we didnt use a primary that had all access, you can choose a main department and extended access for users who work in multiple departments or need access 
+    to them
+![image](https://github.com/Velezdrv/post-install-config/assets/147437260/3f5172dc-7e00-466f-ae5b-67cbcf9daade)
 
 
 
